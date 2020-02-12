@@ -1,0 +1,11 @@
+
+/* 趋势图的容器 */
+.container {
+    width: 800px;
+    height: 600px;
+    background-color: yellowgreen;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
